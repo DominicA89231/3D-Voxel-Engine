@@ -8,6 +8,3 @@ My program allows 360 degree rotation in all directions. My program uses quatern
 
 Right now, you can place a cube anywhere in 3D space, and my program will automatically project it onto a two-dimensional screen.
 
-# BUGS
-
-This project proved to be much more difficult than I thought. When looking from everything at a distance, it appears to be perfectly fine. However, when you get very close to a cube, unpredictable behavior starts to happen. Furthermore, drawing textures on the sides of the cubes leads to the textures becoming stretched, so only solid colors work well right now.
